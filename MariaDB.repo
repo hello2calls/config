@@ -1,0 +1,8 @@
+# MariaDB 10.3 CentOS repository list - created 2019-03-12 12:45 GMT
+# http://downloads.mariadb.org/mariadb/repositories/
+# mirror: https://mirrors.ustc.edu.cn
+[maridb]
+name = MariaDB
+baseurl = https://mirrors.ustc.edu.cn/mariadb/yum/10.3/centos7-amd64
+gpgkey = https://mirrors.ustc.edu.cn/mariadb/yum/RPM-GPG-KEY-MariaDB
+gpgcheck = 1
